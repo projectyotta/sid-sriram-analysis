@@ -1,0 +1,18 @@
+Hypothesis : Sid Sriram repeats a lot of his lyrics. 
+
+Process : Get list of all sid sriram songs 
+Get the lyrics in telugu or use google transliterate . 
+Do a bit of data cleanup (see if there is lemmatization for telugu words) , or just do a google transliterate and call it good . 
+ 
+
+Analysis and projects on this idea : 
+> Then figure out what combination of words best represent the words (also have to consider phrases). Or just do a single word thing. 
+
+> Replicate this for all singers/music directors/lyricists/actors combinations. 
+Figure out what combinations work best for success tracked against whatever metric. 
+
+> Get clients who would pay for this kind of analysis. 
+
+Best case scenario for funding : 
+After this is a stable enough product , maybe Rana funds us lol. 
+
