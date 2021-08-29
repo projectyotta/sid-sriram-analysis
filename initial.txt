@@ -11,8 +11,34 @@ Analysis and projects on this idea :
 > Replicate this for all singers/music directors/lyricists/actors combinations. 
 Figure out what combinations work best for success tracked against whatever metric. 
 
-> Get clients who would pay for this kind of analysis. 
+> Get clients who would pay for this kind of analysis lol 
 
 Best case scenario for funding : 
 After this is a stable enough product , maybe Rana funds us lol. 
+
+# Slides for presentation deck ideas 
+
+# First slide - meme + title 
+
+
+
+# Second slide - descriptive
+# Number of lines and unique lines per song - 52.95 , 32.58
+# Number of words and unique words per song - 160.33 , 88.17
+# lexical richness of each artist (i.e., what proportion of the words used in the songs are distinct) - 42.65 per song 
+
+
+# In what language does he copy the most - to be graphed 
+
+
+# In what year does he copy the most - to be graphed 
+
+
+
+# Information on data - how many records , data considered , data mined from sources 
+
+
+# Average Sid sriram songs + words 
+
+# Some kind of regression 
 
